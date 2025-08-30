@@ -11,7 +11,7 @@ int main(){
     vetor_malloc = (int *) malloc(tamanho * sizeof(int));
     if(vetor_malloc == NULL) { return 1; }
 
-    printf("Vetor alocado com MALLOC (memmria 'suja'):\n");
+    printf("Vetor alocado com MALLOC (memoria 'suja'):\n");
     for(int i = 0; i < tamanho; i++){
         // será impresso aqui o lixo de memória!
         printf("vator_dinamico[%d] = %d\n", i, vetor_malloc[i]);
