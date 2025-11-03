@@ -25,7 +25,7 @@ int main(){
     num[3] = 40;
     num[4] = 50; 
 
-    printf("LISTA LINEAR DINÂMICA (REALOCAÇÃO DE MEMORIA INICIAL)\n");
+    printf("LISTA LINEAR DINÂMICA (REALOCAÇÃO DE MEMORIA)\n");
     printf("\n\n%d, ", num[3]);
     printf("%d ", num[4]);
 }
