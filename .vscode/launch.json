@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sdnicacio/Documents/REPOSITÓRIOS/Estrutura-de-Dados/C",
-      "program": "c:/Users/sdnicacio/Documents/REPOSITÓRIOS/Estrutura-de-Dados/C/build/Debug/outDebug",
+      "cwd": "c:/Users/sdnicacio/Documents/VS Code/Estrutura-de-Dados/C",
+      "program": "c:/Users/sdnicacio/Documents/VS Code/Estrutura-de-Dados/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
