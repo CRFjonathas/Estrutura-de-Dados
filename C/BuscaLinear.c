@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+struct No{
+    int dado;
+    struct No* atual;
+    struct No* proximo;
+};
+
 int buscaLinear(int lista[], int tamanho, int valor) {
     for (int i = 0; i < tamanho; i++) {
         if (lista[i] == valor) {
